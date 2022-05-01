@@ -8,6 +8,7 @@ After analyzing the statistical breakdown from June and December temperature dat
 
 ![June_Stats](Resources/june_stats.png)
 ![December_Stats](Resources/december_stats.png)
+
 Comparing the two data sets, they don't differ by a large amount. Both June and December generally have temperatures in the 70's, which is not hot, but is reasonable enough for surfing and/or having ice cream. After all, surfers usually surf in wetsuits anyway, so the temperature isn't that big of a deal. Based on this data, we can conclude that year-round, temperatures don't change very much on Oahu.
 - The mean temperature is just 3 degrees F higher in June than in December
 - The standard deviation is more or less the same, indicating that the datasets have a similar distribution of temperature data, and are comparable
